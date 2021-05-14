@@ -2,7 +2,7 @@
 //Example: 203421 should output [2,20,203,2034,20342,203421]
 
 function createArrayOfTiers(num) {      
-    let x = num.toString();             //converts the number to a string, so it is able to be worked on.
+    let x = num.toString();             //Converts the number to a string, so it is able to be worked on.
     let z = x.length;                   //sets a variable equal to the length of the string, so we know what value to iterate up to in our for loop
     let string = [];                    //creates an empty string which will be added into 
     for (let i = 0; i<z;i++){           //for loop with necessary parameters
