@@ -1,4 +1,4 @@
-//This program takes numbers, converts them to strings, so that way they can output the number+ the next number for each index of the array.
+//This program takes numbers, converts them to strings, so that way they can output the number+ the next number for each index of the array
 //Example: 203421 should output [2,20,203,2034,20342,203421]
 
 function createArrayOfTiers(num) {      
