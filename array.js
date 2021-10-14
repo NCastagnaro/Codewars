@@ -14,4 +14,4 @@ function createArrayOfTiers(num) {
     }
     console.log(string);               //console logs the string after all the iterations of the for loop have fired
 }
-createArrayOfTiers(54326534);..
+createArrayOfTiers(54326534);.
